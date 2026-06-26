@@ -153,12 +153,6 @@ This project would not have been possible without [bananopy](https://github.com/
 
 ---
 
-### Contact 📱
-
-You can email me at heyadityawork@gmail.com.
-
----
-
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fitsadityasai%2Fbannoti)
 ![GitHub Repo stars](https://img.shields.io/github/stars/itsadityasai/bannoti?style=social)
 
