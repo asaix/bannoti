@@ -7,7 +7,7 @@
                      |____/ \__,_|_| |_|_| |_|\___/ \__|_|
 
                                         Desktop notification tool for banano (https://banano.cc)
-                                         by @itsadityasai (https://github.com/itsadityasai)
+                                         by @asaix (https://github.com/asaix)
 
 
 ```
@@ -25,7 +25,7 @@ However, if you'd like to use the source code, that is documented as well below.
 
 #### Compiled (5m)
 
-1. Grab [the latest release](https://github.com/itsadityasai/bannoti/releases/latest).
+1. Grab [the latest release](https://github.com/asaix/bannoti/releases/latest).
 2. Unzip the file you just downloaded
 3. Open a terminal window
 4. [Move into the directory](https://help.ubuntu.com/community/UsingTheTerminal) in which you placed the files
@@ -38,7 +38,7 @@ Step 5 is optional but recommended, because otherwise you will have to start Ban
 Installing through source is a bit more gritty, but not very hard.
 
 1. Install [Rust](https://rust-lang.org) and [Python (3)](https://python.org).
-2. Download Bannoti's [source code](https://github.com/itsadityasai/bannoti/releases/latest).
+2. Download Bannoti's [source code](https://github.com/asaix/bannoti/releases/latest).
 3. Unzip the file you just downloaded.
 4. Open a terminal window.
 5. Move into the directory of the files.
@@ -130,7 +130,7 @@ Please note that some antivirus programs throw false positives on scanning Banno
 
 ### Legal ⚖
 
-Bannoti is licensed under the BSD 3-Clause "New" or "Revised" License. You can find it [here](https://github.com/itsadityasai/bannoti/blob/main/docs/LICENSE). A short summary is given below.
+Bannoti is licensed under the BSD 3-Clause "New" or "Revised" License. You can find it [here](https://github.com/asaix/bannoti/blob/main/docs/LICENSE). A short summary is given below.
 
 ![Bannoti's License](bsd-license-quick.png)
 
@@ -142,7 +142,7 @@ The tool that allows python to interact with the Banano API is [bananopy](https:
 
 ### Feature Requests & Bug Reporting 🐞
 
-Please use the [issues tab](https://github.com/itsadityasai/bannoti/issues) for this, as that provides me with an organized way to look at requests & reports.
+Please use the [issues tab](https://github.com/asaix/bannoti/issues) for this, as that provides me with an organized way to look at requests & reports.
 For bug reports, please attach the `bug` label, and for feature requests please attach the `enhancment` label.
 
 ---
@@ -153,11 +153,11 @@ This project would not have been possible without [bananopy](https://github.com/
 
 ---
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fitsadityasai%2Fbannoti)
-![GitHub Repo stars](https://img.shields.io/github/stars/itsadityasai/bannoti?style=social)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fasaix%2Fbannoti)
+![GitHub Repo stars](https://img.shields.io/github/stars/asaix/bannoti?style=social)
 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/itsadityasai/bannoti?label=latest%20release&color=blue)
-![GitHub all releases](https://img.shields.io/github/downloads/itsadityasai/bannoti/total?color=9cf)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/asaix/bannoti?label=latest%20release&color=blue)
+![GitHub all releases](https://img.shields.io/github/downloads/asaix/bannoti/total?color=9cf)
 
 ![Python version](https://img.shields.io/badge/python-3.9-blue)
 ![Development Status](https://img.shields.io/badge/development%20status-active-blueviolet)
